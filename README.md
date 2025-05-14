@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ggilligan12-kibana-mcp-badge.png)](https://mseep.ai/app/ggilligan12-kibana-mcp)
+
 # Kibana MCP Server
 
 ![Kibana MCP Demo](faster-server-demo.gif)
